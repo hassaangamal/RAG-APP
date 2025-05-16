@@ -107,7 +107,7 @@ A powerful AI-powered application for CV analysis and interview assistance, feat
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ANBadawy/RAG-Mini-Project.git
+    git clone https://github.com/hassaangamal/RAG-APP
     ```
 2. Create and activate a virtual environment:
     ```bash
